@@ -41,3 +41,8 @@ target_wrapper.*
 
 # QtCreator CMake
 CMakeLists.txt.user*
+
+# KDevelop
+.kdev4/
+build/
+*.kdev4
